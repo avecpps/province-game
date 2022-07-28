@@ -1,3 +1,3 @@
 #!/bin/sh
-g++ -c *.cpp
+g++ -c src/*.cpp
 g++ *.o -o output -lncurses
